@@ -13,5 +13,6 @@ public class Git {
         System.out.println("hello Git again!!!!!");
         System.out.println("hello Git again!!!!!");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
